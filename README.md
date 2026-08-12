@@ -1,1 +1,1 @@
-some content about the project
+ongoing project
