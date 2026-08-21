@@ -1,9 +1,9 @@
 alert("Olá mundo!");
 
-var nasc = 1991;
-let nome = "Pedrina";
+var nasc = 2008;
+let nome = "'Joalyson'";
 const viva = true;
-let altura = 1.64;
+let altura = 1.67;
 
 if (viva){
     let saudacao = "Olá "+ nome +"!";
