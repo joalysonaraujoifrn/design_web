@@ -17,6 +17,7 @@ function calcIdade(ano=2026){
 }
 
 calcIdade();
+/* var 'vaza' a variável dentro do escopo da mesma função
 alert(`Pode beber: ${podebeber}`);
 /*
 alert(`Fora da função : Idade ${idade}`);
